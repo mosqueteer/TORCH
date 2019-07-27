@@ -1,5 +1,4 @@
-#TORCH
-
+# TORCH
 Let us note the following:
 
 1) This code was developed for Xcode (Mac OSX), but the code
